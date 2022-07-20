@@ -1,0 +1,501 @@
+{
+    "frames": {
+        "aquarius.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 381,
+                "y": 173
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "aries.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "btn_audio_off.png": {
+            "frame": {
+                "h": 81,
+                "idx": 0,
+                "w": 25,
+                "x": 508,
+                "y": 82
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 31
+            },
+            "spriteSourceSize": {
+                "x": 2,
+                "y": 2
+            }
+        },
+        "btn_audio_on.png": {
+            "frame": {
+                "h": 81,
+                "idx": 0,
+                "w": 27,
+                "x": 508,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 86,
+                "w": 32
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 2
+            }
+        },
+        "cancer.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 381,
+                "y": 346
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "capricorn.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 254,
+                "y": 346
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "fontClip_num.png": {
+            "frame": {
+                "h": 33,
+                "idx": 0,
+                "w": 413,
+                "x": 0,
+                "y": 519
+            },
+            "sourceSize": {
+                "h": 65,
+                "w": 434
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 17
+            }
+        },
+        "frame.png": {
+            "frame": {
+                "h": 39,
+                "idx": 0,
+                "w": 177,
+                "x": 0,
+                "y": 557
+            },
+            "sourceSize": {
+                "h": 39,
+                "w": 177
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "germini.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 381,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "leo.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 254,
+                "y": 173
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "libra.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 127,
+                "y": 346
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "pisces.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 254,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "progress_bar.png": {
+            "frame": {
+                "h": 3,
+                "idx": 0,
+                "w": 471,
+                "x": 0,
+                "y": 553
+            },
+            "sourceSize": {
+                "h": 30,
+                "w": 476
+            },
+            "spriteSourceSize": {
+                "x": 3,
+                "y": 13
+            }
+        },
+        "record_0.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 523,
+                "y": 535
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_1.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 472,
+                "y": 535
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_10.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 536,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_11.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 536,
+                "y": 53
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_2.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 534,
+                "y": 106
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_3.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 508,
+                "y": 164
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_4.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 508,
+                "y": 217
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_5.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 508,
+                "y": 270
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_6.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 508,
+                "y": 323
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_7.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 508,
+                "y": 376
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_8.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 508,
+                "y": 429
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "record_9.png": {
+            "frame": {
+                "h": 52,
+                "idx": 0,
+                "w": 50,
+                "x": 508,
+                "y": 482
+            },
+            "sourceSize": {
+                "h": 52,
+                "w": 50
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0
+            }
+        },
+        "sagittarius.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 127,
+                "y": 173
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "scorpio.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 0,
+                "y": 346
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "taurus.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 127,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        },
+        "virgo.png": {
+            "frame": {
+                "h": 172,
+                "idx": 0,
+                "w": 126,
+                "x": 0,
+                "y": 173
+            },
+            "sourceSize": {
+                "h": 200,
+                "w": 150
+            },
+            "spriteSourceSize": {
+                "x": 12,
+                "y": 14
+            }
+        }
+    },
+    "meta": {
+        "image": "main.png",
+        "prefix": "main/"
+    }
+}
